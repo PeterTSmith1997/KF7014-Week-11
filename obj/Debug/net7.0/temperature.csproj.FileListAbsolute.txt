@@ -1,0 +1,348 @@
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\appsettings.json
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\temperature.exe
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\temperature.deps.json
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\temperature.runtimeconfig.json
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\temperature.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\temperature.pdb
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.csproj.AssemblyReference.cache
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.AssemblyInfoInputs.cache
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.AssemblyInfo.cs
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.csproj.CoreCompileInputs.cache
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\staticwebassets\msbuild.temperature.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\staticwebassets\msbuild.build.temperature.props
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.temperature.props
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.temperature.props
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\scopedcss\bundle\temperature.styles.css
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.csproj.CopyComplete
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\refint\temperature.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.pdb
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.genruntimeconfig.cache
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\ref\temperature.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\appsettings.json
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\temperature.exe
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\temperature.deps.json
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\temperature.runtimeconfig.json
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\temperature.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\temperature.pdb
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.csproj.AssemblyReference.cache
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.AssemblyInfoInputs.cache
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.AssemblyInfo.cs
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.csproj.CoreCompileInputs.cache
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\staticwebassets\msbuild.temperature.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\staticwebassets\msbuild.build.temperature.props
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.temperature.props
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.temperature.props
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\scopedcss\bundle\temperature.styles.css
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.csproj.CopyComplete
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\refint\temperature.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.pdb
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\temperature.genruntimeconfig.cache
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\obj\Debug\net7.0\ref\temperature.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Humanizer.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\appsettings.Development.json
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\appsettings.json
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\temperature.exe
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\temperature.deps.json
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\temperature.runtimeconfig.json
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\temperature.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\temperature.pdb
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\Humanizer.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\temperature.csproj.AssemblyReference.cache
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\temperature.GeneratedMSBuildEditorConfig.editorconfig
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\temperature.AssemblyInfoInputs.cache
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\temperature.AssemblyInfo.cs
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\temperature.csproj.CoreCompileInputs.cache
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\temperature.MvcApplicationPartsAssemblyInfo.cs
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\temperature.MvcApplicationPartsAssemblyInfo.cache
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\staticwebassets\msbuild.temperature.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\staticwebassets\msbuild.build.temperature.props
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.temperature.props
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.temperature.props
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\staticwebassets.build.json
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\staticwebassets.development.json
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\scopedcss\bundle\temperature.styles.css
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\temperature.csproj.CopyComplete
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\temperature.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\refint\temperature.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\temperature.pdb
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\temperature.genruntimeconfig.cache
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\obj\Debug\net7.0\ref\temperature.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Other\Teaching\23-24\KF7014-new\peter\temperature\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\appsettings.json
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\temperature.exe
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\temperature.deps.json
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\temperature.runtimeconfig.json
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\temperature.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\temperature.pdb
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.csproj.AssemblyReference.cache
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.AssemblyInfoInputs.cache
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.AssemblyInfo.cs
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.csproj.CoreCompileInputs.cache
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\staticwebassets\msbuild.temperature.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\staticwebassets\msbuild.build.temperature.props
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.temperature.props
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.temperature.props
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\scopedcss\bundle\temperature.styles.css
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.csproj.CopyComplete
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\refint\temperature.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.pdb
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.genruntimeconfig.cache
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\ref\temperature.dll
+C:\Users\Famil\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\appsettings.json
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\temperature.exe
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\temperature.deps.json
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\temperature.runtimeconfig.json
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\temperature.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\temperature.pdb
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Humanizer.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.csproj.AssemblyReference.cache
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.AssemblyInfoInputs.cache
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.AssemblyInfo.cs
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.csproj.CoreCompileInputs.cache
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\staticwebassets\msbuild.temperature.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\staticwebassets\msbuild.build.temperature.props
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.temperature.props
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.temperature.props
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\scopedcss\bundle\temperature.styles.css
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.csproj.CopyComplete
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\refint\temperature.dll
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.pdb
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\temperature.genruntimeconfig.cache
+C:\Users\w16018262\OneDrive - Northumbria University - Production Azure AD\KF7014 -asses\temperature\obj\Debug\net7.0\ref\temperature.dll
